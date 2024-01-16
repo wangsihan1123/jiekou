@@ -1,0 +1,30 @@
+# 注释, key后面的: 后必须加空格分开 key value
+# 数字化交付小组用户
+d_user:
+  username: 'qitingfei01'
+  password: 'tfQ@2022'
+
+# P组用户
+p_user:
+  username: 'qitingfei02'
+  password: 'tfQ@2022'
+
+# P组用户
+c_user:
+  username: 'qitingfei05'
+  password: 'tfQ@2022'
+
+# P组用户
+e_user:
+  username: 'qitingfei06'
+  password: 'tfQ@2022'
+
+# 文控组用户
+k_user:
+  username: 'qitingfei03'
+  password: 'tfQ@2022'
+
+# 系统管理组组用户
+a_user:
+  username: 'admin'
+  password: 'admin'

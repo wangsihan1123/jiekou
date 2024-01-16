@@ -1,0 +1,2 @@
+[2023-12-18 15:58:02,479] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-使用编码规则请求路径为:/EDC/projectSpaces//documentNumRule/procurement?ruleId=,请求体为:{}
+[2023-12-18 15:58:02,540] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-使用编码规则状态码：404，响应结果:{"timestamp":"2023-12-18T07:57:59.545+0000","status":404,"error":"Not Found","message":"No message available","path":"/EDC/projectSpaces/documentNumRule/procurement"}

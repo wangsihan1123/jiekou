@@ -1,0 +1,2 @@
+[2024-01-11 15:42:39,619] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除自定义插件-id为空请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-11 15:42:39,640] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-删除自定义插件-id为空状态码：405，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求方式不支持"}

@@ -1,0 +1,7 @@
+db:
+  user: 'root'
+  host: '10.10.10.103'
+  port: 3306
+  password: 'xxxxxx'
+  charset: 'utf8'
+  database: 'edc1'

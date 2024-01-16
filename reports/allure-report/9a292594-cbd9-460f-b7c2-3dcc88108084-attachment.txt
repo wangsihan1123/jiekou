@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,650] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间列表-删除工作空间请求路径为:/EDC/projectSpaces/,请求体为:{}
+[2023-12-18 16:41:14,654] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间列表-删除工作空间状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:12.184+00:00","path":"/EDC/projectSpaces/","status":404,"error":"Not Found","message":"","requestId":"eb07819a-43954"}

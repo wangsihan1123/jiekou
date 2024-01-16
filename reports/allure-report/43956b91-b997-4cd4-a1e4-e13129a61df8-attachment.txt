@@ -1,0 +1,2 @@
+[2023-12-18 15:58:03,068] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-上传文档审批流请求路径为:/EDC/projectSpaces//documentWorkflows/upload,请求体为:{}
+[2023-12-18 15:58:03,131] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-上传文档审批流状态码：404，响应结果:{"timestamp":"2023-12-18T07:58:00.137+0000","status":404,"error":"Not Found","message":"No message available","path":"/EDC/projectSpaces/documentWorkflows/upload"}

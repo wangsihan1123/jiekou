@@ -1,0 +1,24 @@
+[2023-12-29 15:59:40,634] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-预览插件图标请求路径为:/OneHit/plugin/plugin_icon_1/icon/preview/pm_icon_1.svg?isSystemInternal=true,请求体为:{}
+[2023-12-29 15:59:40,674] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-预览插件图标状态码：200，响应结果:<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50.2663824%" y2="98.2143987%" id="linearGradient-1">
+            <stop stop-color="#C2B3FB" offset="0%"></stop>
+            <stop stop-color="#7555F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="-----自定义插件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="自定义插件icon" transform="translate(-128.000000, -131.000000)">
+            <g id="icon/38px/插件图标/icon-1" transform="translate(128.000000, 131.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="38" height="38" rx="2"></rect>
+                <g id="编组-10" transform="translate(8.000000, 8.000000)">
+                    <rect id="矩形" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="22" height="22"></rect>
+                    <g id="编组" transform="translate(1.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M19.95842,14.4 L0,14.4 L0,16 L19.95842,16 L19.95842,14.4 Z M3.86694387,12.24 C3.99168399,12.56 4.28274428,12.8 4.65696465,12.8 L15.3430353,12.8 C15.7172557,12.8 16.008316,12.56 16.1330561,12.24 L19.95842,1.04 C20.04158,0.799999987 20,0.519999987 19.8336798,0.320000012 C19.6257796,0.120000016 19.3762994,0 19.1268191,0 L14.968815,0 C14.6361746,0 14.3451143,0.199999997 14.2203742,0.479999997 L10.8939709,8 L9.06444907,8 L5.73804573,0.479999997 C5.61330561,0.199999997 5.32224532,0 4.989605,0 L0.831600841,0 C0.582120582,0 0.332640345,0.119999994 0.166320173,0.320000012 C8.42192094e-09,0.520000009 -0.0415800318,0.800000009 0.0415800546,1.04 L3.86694387,12.24 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

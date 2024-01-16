@@ -1,0 +1,2 @@
+[2024-01-11 11:08:59,443] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-预览自定义插件图标-类型为空请求路径为:/OneHit/plugin/plugin_icon_2/icon/preview/pm_icon_2.svg?isSystemInternal=,请求体为:{}
+[2024-01-11 11:08:59,478] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-预览自定义插件图标-类型为空状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"插件图标文件读取异常,请联系管理员"}

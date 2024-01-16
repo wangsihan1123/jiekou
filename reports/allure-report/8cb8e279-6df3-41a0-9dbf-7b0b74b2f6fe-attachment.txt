@@ -1,0 +1,2 @@
+[2024-01-11 11:11:49,954] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-新增自定义插件请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-11 11:11:50,107] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-新增自定义插件状态码：200，响应结果:{"success":true,"message":"6b6dd603-8b70-44a1-8413-64dfb72e78c1","code":200,"result":null,"timestamp":1704942710380}

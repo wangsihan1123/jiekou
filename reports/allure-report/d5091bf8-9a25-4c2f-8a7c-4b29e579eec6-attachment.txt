@@ -1,0 +1,2 @@
+[2024-01-11 11:08:58,933] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-更新插件数据-pmIcon为空请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-11 11:08:58,954] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-更新插件数据-pmIcon为空状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"请选择插件图标"}

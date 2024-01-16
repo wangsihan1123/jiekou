@@ -1,0 +1,2 @@
+[2024-01-11 10:33:44,810] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-批量修改插件状态改为固定请求路径为:/OneHit/plugin/status/FIXED,请求体为:{"ids":"ccf44d39-0090-473f-b14b-4a58b0e742da,8a6a0db2-0803-49fa-9126-f03d6410b91b"}
+[2024-01-11 10:33:44,843] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-批量修改插件状态改为固定状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704940425014}

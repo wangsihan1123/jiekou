@@ -1,0 +1,2 @@
+[2023-12-18 15:58:03,723] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-获取供应商编码表列表请求路径为:/EDC/supplierCode,请求体为:{}
+[2023-12-18 15:58:03,781] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-获取供应商编码表列表状态码：200，响应结果:[{"id":"b2f576af-2115-47c3-8ea8-6125c5431111","name":"西召拉"},{"id":"bd8fffa7-b6dc-44ea-a7ea-bfc12bf4d38d","name":"第一轮测试供应商编码表"},{"id":"ec809977-f5a9-4c06-9c93-af8f1806ab43","name":"yxj-供应商编码表"}]

@@ -1,0 +1,2 @@
+[2024-01-09 11:03:38,428] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-根据系统插件ID获取插件信息请求路径为:/OneHit/plugin/fba128d0-434d-47d7-a8a7-3ee88d1427a0,请求体为:{}
+[2024-01-09 11:03:38,468] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-根据系统插件ID获取插件信息状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":{"id":"fba128d0-434d-47d7-a8a7-3ee88d1427a0","name":"二维码生成器","pmIcon":"二维码生成器.svg","pdIcon":"Icon／16px／二维码生成器@2x.png","description":"二维码","businessType":"生产力","status":"ON"},"timestamp":1704769420033}

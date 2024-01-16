@@ -1,0 +1,2 @@
+[2024-01-11 09:59:47,011] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-保存自定义插件数据-场景的容器为空请求路径为:/OneHit/scene/2d1512db-1278-414b-9c88-14eebf64c453,请求体为:{}
+[2024-01-11 09:59:47,080] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-保存自定义插件数据-场景的容器为空状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"containers不能为空"}

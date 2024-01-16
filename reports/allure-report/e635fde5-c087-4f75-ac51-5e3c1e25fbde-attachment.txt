@@ -1,0 +1,2 @@
+[2023-12-18 15:58:02,191] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-获取拆分规则列表请求路径为:/EDC/splitDicts,请求体为:{}
+[2023-12-18 15:58:02,244] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-获取拆分规则列表状态码：200，响应结果:[{"id":"23f3cb69-987f-4ec3-b2ef-d1a6777eac64","name":"11"},{"id":"9177cbb5-8e46-4eac-939e-fed83f76f675","name":"第一轮测试拆分规则"},{"id":"977cbf53-e815-480e-b8df-d7222867e834","name":"西召拉"}]

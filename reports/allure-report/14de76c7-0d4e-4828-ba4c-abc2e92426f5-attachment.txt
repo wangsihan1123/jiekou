@@ -1,0 +1,2 @@
+[2023-12-29 16:19:25,356] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-获取最近使用请求路径为:/OneHit/plugin/recent/use,请求体为:{}
+[2023-12-29 16:19:25,391] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-获取最近使用状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":[],"timestamp":1703837967713}

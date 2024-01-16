@@ -1,0 +1,2 @@
+[2024-01-11 10:06:23,663] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-根据自定义插件ID获取插件信息请求路径为:/OneHit/plugin/de3061bc-d7d1-41bd-bffc-5f43e228f9c6,请求体为:{}
+[2024-01-11 10:06:23,683] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-根据自定义插件ID获取插件信息状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":{"id":"de3061bc-d7d1-41bd-bffc-5f43e228f9c6","name":"8899","pmIcon":"pm_icon_2.svg","pdIcon":"pd_icon_1.svg","iconGroup":"plugin_icon_2","description":"222222","businessType":"自定义","status":"FIXED"},"timestamp":1704938783785}

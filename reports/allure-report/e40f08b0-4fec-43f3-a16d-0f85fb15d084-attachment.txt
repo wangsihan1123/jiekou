@@ -1,0 +1,2 @@
+[2023-12-26 16:59:01,291] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传保存请求路径为:/OneHit/scene/,请求体为:{}
+[2023-12-26 16:59:01,395] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传保存状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}

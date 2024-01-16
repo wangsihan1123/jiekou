@@ -1,0 +1,2 @@
+[2023-12-28 14:43:00,984] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-更新插件数据请求路径为:/OneHit/plugin,请求体为:{"id":"","name":"8899","businessType":"","iconGroup":"plugin_icon_2","pmIcon":"pm_icon_2.svg","pdIcon":"pd_icon_1.svg","description":"222222" }
+[2023-12-28 14:43:01,011] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-更新插件数据状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"未找到指定插件"}

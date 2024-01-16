@@ -1,0 +1,2 @@
+[2024-01-11 15:01:31,396] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-根据系统插件ID获取插件信息请求路径为:/OneHit/plugin/cf9c9276-cf75-455f-bf69-e54854e31bc6,请求体为:{}
+[2024-01-11 15:01:31,416] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-根据系统插件ID获取插件信息状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":{"id":"cf9c9276-cf75-455f-bf69-e54854e31bc6","name":"二维码生成器","pmIcon":"二维码生成器.svg","pdIcon":"Icon／16px／二维码生成器@2x.png","description":"二维码","businessType":"生产力","status":"ON"},"timestamp":1704956492248}

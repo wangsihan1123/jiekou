@@ -1,0 +1,1 @@
+[2024-01-02 09:20:44,141] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传新增系统插件请求路径为:/OneHit/plugin/internal,请求体为:{"name":"new_add_name","description":"new_add_description","businessType":"生产力"}

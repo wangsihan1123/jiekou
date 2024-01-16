@@ -1,0 +1,2 @@
+[2023-12-28 14:46:46,111] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传保存自定义插件请求路径为:/OneHit/scene/1e293dcf-1fdd-4fb7-a386-4ce5762f96df,请求体为:{}
+[2023-12-28 14:46:46,293] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传保存自定义插件状态码：200，响应结果:

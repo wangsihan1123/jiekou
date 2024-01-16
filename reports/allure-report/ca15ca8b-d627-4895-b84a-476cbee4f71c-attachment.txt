@@ -1,0 +1,2 @@
+[2024-01-09 11:08:13,362] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-更新插件数据请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-09 11:08:13,385] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-更新插件数据状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"未找到指定插件"}

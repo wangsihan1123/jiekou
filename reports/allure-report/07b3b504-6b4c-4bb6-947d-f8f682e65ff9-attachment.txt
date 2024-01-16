@@ -1,0 +1,2 @@
+[2024-01-03 10:42:28,487] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-更新插件数据请求路径为:/OneHit/plugin,请求体为:{"id":"5bb0ea5f-5e12-45aa-abc7-de4646934001","name":"8899","businessType":"自定义","iconGroup":"plugin_icon_2","pmIcon":"pm_icon_2.svg","pdIcon":"pd_icon_1.svg","description":"222222" }
+[2024-01-03 10:42:28,524] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-更新插件数据状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"服务器内部异常,请联系管理员"}

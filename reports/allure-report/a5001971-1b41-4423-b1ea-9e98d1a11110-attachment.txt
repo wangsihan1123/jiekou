@@ -1,0 +1,1 @@
+[2024-01-02 09:20:43,726] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-根据插件ID获取插件信息请求路径为:/OneHit/plugin/,请求体为:{}

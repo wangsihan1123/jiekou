@@ -1,0 +1,2 @@
+[2024-01-11 15:17:44,368] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-批量修改插件状态-ids为空请求路径为:/OneHit/plugin/status/OFF,请求体为:{"ids":""}
+[2024-01-11 15:17:44,397] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-批量修改插件状态-ids为空状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"未找到指定插件"}

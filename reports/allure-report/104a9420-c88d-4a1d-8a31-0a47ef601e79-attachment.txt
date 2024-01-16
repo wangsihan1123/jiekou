@@ -1,0 +1,2 @@
+[2024-01-11 11:06:11,388] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-预览自定义插件图标-名称为空请求路径为:/OneHit/plugin/icon/preview/pm_icon_2.svg?isSystemInternal=true,请求体为:{}
+[2024-01-11 11:06:11,408] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-预览自定义插件图标-名称为空状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}

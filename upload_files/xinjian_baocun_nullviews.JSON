@@ -1,0 +1,82 @@
+{
+    "name":"889", 
+    "icon":"pd_icon_1.svg", 
+    "order":"2", 
+            "elementHtml":"<div id=\"navigatorTab_container\" class=\"suspend navigatorContainer\" row=\"layout-row-one\" style=\"width:312px;height:calc(100% - 68px);float:left;border:none;\"></div><div id=\"3dRender_container\" row=\"layout-row-one\" style=\"width:100%;height:100%;float:left;border:none;\"></div><div id=\"propertiesTab_container\" class=\"suspend labelInfo-auto\" row=\"layout-row-one\" style=\"min-width:312px;float:left;border:none;\"></div>",
+        "areas":[
+  {
+    "id": "navigator",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "navigatorTab_container"
+  },
+  {
+    "id": "primaryContent",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "3dRender_container"
+  },
+  {
+    "id": "info",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "propertiesTab_container"
+  }
+],
+        "containers":[
+  {
+    "id": "navContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "f6283b2c-ebc2-4388-834a-61a36ed174ad",
+    "type": "stack",
+    "index": 0,
+    "areaId": "navigator"
+  },
+  {
+    "id": "3dRenderContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "2111ce4b-f4f0-42bd-a6bb-a73c0e9c2984",
+    "type": "stack",
+    "index": 1,
+    "areaId": "primaryContent"
+  },
+  {
+    "id": "sbpropertiesContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "0916c2f4-3585-45e1-acd4-9520a4d14818",
+    "type": "stack",
+    "index": 2,
+    "areaId": "info"
+  }
+],
+        "views":[],
+        "models":[
+  {
+    "id": "4e864bdf-0705-4db7-9731-2d3faf4899ed",
+    "name": "model",
+    "type": "RepoModel",
+    "options": {
+      "filters": "[{\"type\":\"LabelsFilter\",\"labels\":[{\"key\":\"装置名称\",\"value\":\"模型\"}]}]"
+    },
+    "serializeDatas": [
+      {
+        "serializeData": "[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"]",
+        "index": 0
+      }
+    ]
+  },
+  {
+    "id": "81e3482a-a752-4840-92f6-48cd2e57382a",
+    "name": "LabelModels",
+    "type": "LabelModels",
+    "options": {
+      "labelsFilters": "{\"labelClassificationName\":\"\"}",
+      "fixSize": "{\"min\": 40000, \"max\": 50000, \"width\": 100}",
+      "onOff": "on"
+    },
+    "serializeDatas": [
+      {
+        "serializeData": "[]",
+        "index": 0
+      }
+    ]
+  }
+]
+    }

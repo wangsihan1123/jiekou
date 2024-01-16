@@ -1,0 +1,2 @@
+[2024-01-11 11:15:54,003] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-根据自定义插件ID获取场景数据-错误的id请求路径为:/OneHit/plugin/scene/87987,请求体为:{}
+[2024-01-11 11:15:54,022] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-根据自定义插件ID获取场景数据-错误的id状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"未找到指定插件"}

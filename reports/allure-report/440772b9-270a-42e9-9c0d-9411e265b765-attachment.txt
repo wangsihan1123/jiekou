@@ -1,0 +1,2 @@
+[2024-01-03 14:28:23,243] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-记录应用插件临时访问日志请求路径为:/OneHit/plugin/temp/log/f4b06448-bc1b-414d-ac49-7511856560f9,请求体为:{}
+[2024-01-03 14:28:23,279] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-记录应用插件临时访问日志状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704263306589}

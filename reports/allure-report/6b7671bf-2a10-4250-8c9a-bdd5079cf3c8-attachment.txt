@@ -1,0 +1,2 @@
+[2023-12-29 10:31:47,927] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-获取当前用户有权限并启用插件请求路径为:/OneHit/plugin,请求体为:{"isIgnoreOff":true}
+[2023-12-29 10:31:47,954] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-获取当前用户有权限并启用插件状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Required request parameter 'isIgnoreOff' for method parameter type Boolean is not present"}

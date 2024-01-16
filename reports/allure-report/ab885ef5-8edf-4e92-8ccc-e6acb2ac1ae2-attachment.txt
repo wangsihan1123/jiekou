@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,444] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-下载文档审批流请求路径为:/EDC/projectSpaces//documentWorkflows/download,请求体为:{}
+[2023-12-18 16:41:14,447] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-下载文档审批流状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:11.965+00:00","path":"/EDC/projectSpaces//documentWorkflows/download","status":404,"error":"Not Found","message":"","requestId":"a622c9c5-43940"}

@@ -1,0 +1,2 @@
+[2023-12-18 15:58:04,109] [INFO] [test_02_data_dict.py] [line 42] 数据字典-类库管理-新增类库请求路径为:/EDC/classLibs?name=class_libs_api_1702886280,请求体为:{}
+[2023-12-18 15:58:04,163] [INFO] [test_02_data_dict.py] [line 60] 数据字典-类库管理-新增类库状态码：200，响应结果:12eb3d35-67d7-430f-b079-9a4bafa2c89e

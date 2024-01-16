@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,331] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-获取文档版本审批时效请求路径为:/EDC/projectSpaces//audit/documents/period,请求体为:{}
+[2023-12-18 16:41:14,335] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-获取文档版本审批时效状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:11.855+00:00","path":"/EDC/projectSpaces//audit/documents/period","status":404,"error":"Not Found","message":"","requestId":"87f75e6b-43932"}

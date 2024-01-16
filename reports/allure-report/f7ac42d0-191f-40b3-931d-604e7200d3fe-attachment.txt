@@ -1,0 +1,2 @@
+[2023-12-27 15:51:23,092] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-根据插件ID获取场景数据请求路径为:/OneHit/plugin/33e0df10-2241-4a1a-969d-cb789975f577,请求体为:{}
+[2023-12-27 15:51:23,124] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-根据插件ID获取场景数据状态码：405，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求方式不支持"}

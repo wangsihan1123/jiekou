@@ -1,0 +1,2 @@
+[2024-01-10 15:51:17,891] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-批量修改插件状态改为开请求路径为:/OneHit/plugin/status/ON,请求体为:{"ids":"ccf44d39-0090-473f-b14b-4a58b0e742da,0f01efa2-6f76-428d-8cc3-22efa18938a2"}
+[2024-01-10 15:51:17,925] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-批量修改插件状态改为开状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704873080122}

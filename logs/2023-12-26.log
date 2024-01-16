@@ -1,0 +1,42 @@
+[2023-12-26 15:53:29,363] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 15:53:29,411] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 15:59:08,057] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 15:59:08,083] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 16:00:23,479] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:00:23,502] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 16:02:47,467] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:02:47,555] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 16:03:35,185] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:03:35,207] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 16:09:27,065] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:09:27,089] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 16:09:48,891] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:09:48,912] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"Current request is not a multipart request"}
+[2023-12-26 16:19:08,415] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:19:08,466] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-查询用户默认场景状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"服务器内部异常,请联系管理员"}
+[2023-12-26 16:21:18,022] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:21:18,339] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"d68bc0a9-7690-496b-a31f-fe16ab988e49","code":200,"result":null,"timestamp":1703578879269}
+[2023-12-26 16:29:20,268] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:29:20,665] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"c801e5a7-930a-404c-9792-9d9014792619","code":200,"result":null,"timestamp":1703579361619}
+[2023-12-26 16:29:20,775] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除请求路径为:/OneHit/plugin/,请求体为:{}
+[2023-12-26 16:29:20,805] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-删除状态码：405，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求方式不支持"}
+[2023-12-26 16:31:51,346] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:31:51,433] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"系统内已有该插件"}
+[2023-12-26 16:32:59,081] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:32:59,334] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"dd717881-6b0c-47c3-ade4-ff93ea8b4501","code":200,"result":null,"timestamp":1703579580294}
+[2023-12-26 16:56:23,476] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:56:23,728] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"5bd76917-8adc-4785-abd7-2fecb1342476","code":200,"result":null,"timestamp":1703580984750}
+[2023-12-26 16:56:23,876] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-保存请求路径为:/OneHit/scene/,请求体为:{}
+[2023-12-26 16:56:23,949] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-保存状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}
+[2023-12-26 16:59:00,867] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 16:59:01,185] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"1d20fddf-58a5-4b2e-8fe8-9b777beb6937","code":200,"result":null,"timestamp":1703581142221}
+[2023-12-26 16:59:01,291] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传保存请求路径为:/OneHit/scene/,请求体为:{}
+[2023-12-26 16:59:01,395] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传保存状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}
+[2023-12-26 17:01:51,726] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 17:01:52,062] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"07d4ebfa-690e-4e97-9ad1-3d4d367723b2","code":200,"result":null,"timestamp":1703581313082}
+[2023-12-26 17:01:52,169] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传保存请求路径为:/OneHit/scene/,请求体为:{}
+[2023-12-26 17:01:52,205] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传保存状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}
+[2023-12-26 17:05:04,947] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-26 17:05:05,250] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"1cc78192-8928-4a09-85cc-a73812689b07","code":200,"result":null,"timestamp":1703581506288}
+[2023-12-26 17:05:05,355] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传保存请求路径为:/OneHit/scene/,请求体为:{}
+[2023-12-26 17:05:05,399] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传保存状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}

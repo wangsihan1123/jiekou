@@ -1,0 +1,2 @@
+[2024-01-09 16:51:08,295] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除系统插件临时访问日志请求路径为:/OneHit/plugin/temp/log/76eb9ad2-4325-456d-918c-00bcc099e181,请求体为:{"name":"二维码生成器"}
+[2024-01-09 16:51:08,317] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-删除系统插件临时访问日志状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704790270701}

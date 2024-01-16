@@ -1,0 +1,2 @@
+[2023-12-18 15:58:01,392] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间列表-编辑工作空间请求路径为:/EDC/projectSpaces/?name=project_spaces_api_1702886280,请求体为:{}
+[2023-12-18 15:58:01,450] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间列表-编辑工作空间状态码：405，响应结果:{"timestamp":"2023-12-18T07:57:58.456+0000","status":405,"error":"Method Not Allowed","message":"Request method 'PUT' not supported","path":"/EDC/projectSpaces/"}

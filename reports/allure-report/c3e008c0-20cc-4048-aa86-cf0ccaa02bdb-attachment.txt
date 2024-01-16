@@ -1,0 +1,2 @@
+[2023-12-18 15:58:06,305] [INFO] [test_02_data_dict.py] [line 42] 数据字典-类库管理-新增工厂对象属性请求路径为:/EDC/classLibs/12eb3d35-67d7-430f-b079-9a4bafa2c89e/poCategories/dcb71cc2-3016-4770-bfc3-12cba604bf11/poPropertyDefs,请求体为:{"source":"P","name":"property_api_1702886280","description":null,"type":"STRING","required":true,"rule":null,"optionalValues":[],"optionalUnits":[]}
+[2023-12-18 15:58:06,401] [INFO] [test_02_data_dict.py] [line 60] 数据字典-类库管理-新增工厂对象属性状态码：200，响应结果:72a722b1-1762-47b0-91b0-cd38a2dbea5a

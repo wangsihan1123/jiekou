@@ -1,0 +1,1 @@
+[2024-01-02 09:20:43,560] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-预览插件图标请求路径为:/OneHit/plugin/plugin_icon_2/icon/preview/pm_icon_2.svg?isSystemInternal=true,请求体为:{}

@@ -1,0 +1,2 @@
+[2024-01-11 11:32:12,851] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-设置用户默认场景-用户id为空请求路径为:/OneHit/scene/default,请求体为:{}
+[2024-01-11 11:32:12,887] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-设置用户默认场景-用户id为空状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"服务器内部异常,请联系管理员"}

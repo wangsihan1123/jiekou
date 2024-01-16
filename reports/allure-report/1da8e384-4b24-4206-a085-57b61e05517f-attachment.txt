@@ -1,0 +1,2 @@
+[2024-01-11 11:23:28,910] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-保存自定义插件数据-错误场景顺序请求路径为:/OneHit/scene/318377d1-48b9-4f2f-a754-6fbaf7102a7e,请求体为:{}
+[2024-01-11 11:23:28,968] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-保存自定义插件数据-错误场景顺序状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"服务器内部异常,请联系管理员"}

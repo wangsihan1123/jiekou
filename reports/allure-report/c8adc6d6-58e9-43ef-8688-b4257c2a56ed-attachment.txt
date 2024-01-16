@@ -1,0 +1,2 @@
+[2024-01-11 10:16:17,117] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-保存自定义插件数据-场景的view为空请求路径为:/OneHit/scene/4c69f176-3afe-4386-9575-56954ee869c4,请求体为:{}
+[2024-01-11 10:16:17,152] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-保存自定义插件数据-场景的view为空状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"views不能为空"}

@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,115] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-同步类库-提交请求路径为:/EDC/projectSpaces//classLib/sync,请求体为:{}
+[2023-12-18 16:41:14,119] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-同步类库-提交状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:11.637+00:00","path":"/EDC/projectSpaces//classLib/sync","status":404,"error":"Not Found","message":"","requestId":"d17ef93c-43916"}

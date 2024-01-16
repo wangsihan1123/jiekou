@@ -1,0 +1,2 @@
+[2024-01-11 15:42:39,394] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除自定义插件临时访问日志请求路径为:/OneHit/plugin/temp/log/03427e63-bce2-4189-8c9e-acca944289c4,请求体为:{}
+[2024-01-11 15:42:39,415] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-删除自定义插件临时访问日志状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704958960348}

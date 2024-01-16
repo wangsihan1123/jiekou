@@ -1,0 +1,2 @@
+[2024-01-11 15:39:42,858] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除自定义插件请求路径为:/OneHit/plugin/c1cd872c-4b1c-4d6c-8721-9d0c88474497,请求体为:{}
+[2024-01-11 15:39:42,889] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-删除自定义插件状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704958783809}

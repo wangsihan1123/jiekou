@@ -1,0 +1,1 @@
+[2024-01-11 15:42:41,781] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传2-新增系统插件-pdIcon为空请求路径为:/OneHit/plugin/internal,请求体为:{"name":"二维码生成器","description":"二维码","businessType":"生产力"}

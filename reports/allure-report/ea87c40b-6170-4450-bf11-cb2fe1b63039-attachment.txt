@@ -1,0 +1,2 @@
+[2024-01-11 15:01:31,276] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传2-新增系统插件请求路径为:/OneHit/plugin/internal,请求体为:{"name":"二维码生成器","description":"二维码","businessType":"生产力"}
+[2024-01-11 15:01:31,302] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传2-新增系统插件状态码：200，响应结果:{"success":true,"message":"cf9c9276-cf75-455f-bf69-e54854e31bc6","code":200,"result":null,"timestamp":1704956492139}

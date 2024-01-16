@@ -1,0 +1,2 @@
+[2024-01-03 15:29:38,833] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-查询用户默认场景请求路径为:/OneHit/scene/default,请求体为:{}
+[2024-01-03 15:29:38,861] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-查询用户默认场景状态码：200，响应结果:三维

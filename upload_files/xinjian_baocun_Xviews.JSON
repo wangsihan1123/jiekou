@@ -1,0 +1,94 @@
+{
+    "name":"889", 
+    "icon":"pd_icon_1.svg", 
+    "order":"2", 
+            "elementHtml":"<div id=\"navigatorTab_container\" class=\"suspend navigatorContainer\" row=\"layout-row-one\" style=\"width:312px;height:calc(100% - 68px);float:left;border:none;\"></div><div id=\"3dRender_container\" row=\"layout-row-one\" style=\"width:100%;height:100%;float:left;border:none;\"></div><div id=\"propertiesTab_container\" class=\"suspend labelInfo-auto\" row=\"layout-row-one\" style=\"min-width:312px;float:left;border:none;\"></div>",
+        "areas":[
+  {
+    "id": "navigator",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "navigatorTab_container"
+  },
+  {
+    "id": "primaryContent",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "3dRender_container"
+  },
+  {
+    "id": "info",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "propertiesTab_container"
+  }
+],
+        "containers":[
+  {
+    "id": "navContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "f6283b2c-ebc2-4388-834a-61a36ed174ad",
+    "type": "stack",
+    "index": 0,
+    "areaId": "navigator"
+  },
+  {
+    "id": "3dRenderContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "2111ce4b-f4f0-42bd-a6bb-a73c0e9c2984",
+    "type": "stack",
+    "index": 1,
+    "areaId": "primaryContent"
+  },
+  {
+    "id": "sbpropertiesContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "0916c2f4-3585-45e1-acd4-9520a4d14818",
+    "type": "stack",
+    "index": 2,
+    "areaId": "info"
+  }
+],
+        "views":[
+      {
+        "5646": "运机械\",\"parentNa546me\":\"起重运546输类\",\"labe46ls\":[{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"采样器\",\"parentName\":\"化验分析仪器\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"}]}],\"equipmentInfoList\":{\"deviceList\":[\"全部装置\",\"苯乙烯\",\"苯乙烯svg\",\"苯乙烯-地形\",\"测试演示\",\"广东标注测试\",\"广东标注测试2\",\"沙箱\",\"沙箱-大地形\"],\"processList\":[\"全部工艺\",\"工艺A\",\"工艺B\",\"工艺C\"],\"positionList\":[\"全部空间\",\"地上\",\"地下\"],\"categoryList\":[\"全部分类\",\"塔类\",\"炉类\",\"反应设备类\",\"罐类\",\"换热设备类\",\"通用机械类\",\"管道与阀门\",\"动力设备类\",\"油/气加注装卸设施\",\"电气设备类\",\"仪器仪表\",\"起重运输类\",\"信息与通讯设备\",\"安全环保专用设备\",\"房屋和构筑物\",\"其它设备\",\"炼油化工专用机械\"]},\"filterCollapse\":{\"deviceCollapse\":true,\"processCollapse\":false,\"positionCollapse\":false,\"categoryCollapse\":true}},\"rootStructureNode\":null,\"sceneId\":\"0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6\",\"filterState\":\"筛选完成\",\"screeningCondition\":[{\"tabName\":\"filterCondition1\",\"screeningMethod\":\"filter_Condition\",\"isHasFile\":true}],\"filterConditionsA\":[{\"screeningMethod\":\"filter_Condition\",\"activeName\":\"filterCondition1\",\"reposito",
+        "ind546ex": 585460
+      },
+      {
+        "546": "riesId\":[\"6end98456kjb7c1\"],\"8797\":{\"query\":{\"789\":{\"must\":[{\"bool\":{\"minimum_should_match\":1,\"should\":[]}}],\"filter\":[]}},\"size\":9999,\"from\":0}}],\"selectPositionsA\":[]}",
+        "456": 581456546
+      }
+    ],
+    "879": true
+  }
+],
+        "models":[
+  {
+    "id": "4e864bdf-0705-4db7-9731-2d3faf4899ed",
+    "name": "model",
+    "type": "RepoModel",
+    "options": {
+      "filters": "[{\"type\":\"LabelsFilter\",\"labels\":[{\"key\":\"装置名称\",\"value\":\"模型\"}]}]"
+    },
+    "serializeDatas": [
+      {
+        "serializeData": "[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"]",
+        "index": 0
+      }
+    ]
+  },
+  {
+    "id": "81e3482a-a752-4840-92f6-48cd2e57382a",
+    "name": "LabelModels",
+    "type": "LabelModels",
+    "options": {
+      "labelsFilters": "{\"labelClassificationName\":\"\"}",
+      "fixSize": "{\"min\": 40000, \"max\": 50000, \"width\": 100}",
+      "onOff": "on"
+    },
+    "serializeDatas": [
+      {
+        "serializeData": "[]",
+        "index": 0
+      }
+    ]
+  }
+]
+    }

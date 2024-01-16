@@ -1,0 +1,2 @@
+[2023-12-27 15:44:25,223] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传保存请求路径为:/OneHit/scene/9e50661f-b6e4-44bb-a892-7384ff9b46ed,请求体为:{}
+[2023-12-27 15:44:25,446] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传保存状态码：200，响应结果:

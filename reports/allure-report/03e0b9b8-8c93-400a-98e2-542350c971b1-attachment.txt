@@ -1,0 +1,2 @@
+[2023-12-28 14:39:15,514] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-更新插件数据请求路径为:/OneHit/plugin,请求体为:{"id":"c07f56e7-ee27-4069-8eb3-994b7530eca8","name":"8899",  "businessType":"", "iconGroup":"plugin_icon_2","pmIcon":"pm_icon_2.svg","pdIcon":"pd_icon_1.svg","description":"222222" }
+[2023-12-28 14:39:15,544] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-更新插件数据状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"未找到指定业务类型"}

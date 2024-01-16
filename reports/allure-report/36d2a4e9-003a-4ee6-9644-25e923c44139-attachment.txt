@@ -1,0 +1,2 @@
+[2024-01-11 15:00:09,350] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-新增自定义插件-错误的areas请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-11 15:00:09,423] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-新增自定义插件-错误的areas状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"系统内已有该插件"}

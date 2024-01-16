@@ -1,0 +1,1 @@
+[2023-12-27 15:40:18,977] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除插件请求路径为:OneHit/plugin/78e8d523-987f-457d-91c2-c34a59c81d2e,请求体为:{"name":["889"]}

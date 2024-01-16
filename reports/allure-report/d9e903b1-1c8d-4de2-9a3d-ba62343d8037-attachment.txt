@@ -1,0 +1,2 @@
+[2023-12-18 16:41:13,802] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间列表-新增工作空间名称为空请求路径为:/EDC/projectSpaces?name=,请求体为:{}
+[2023-12-18 16:41:13,806] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间列表-新增工作空间名称为空状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:11.324+00:00","path":"/EDC/projectSpaces","status":404,"error":"Not Found","message":"","requestId":"2c943d65-43894"}

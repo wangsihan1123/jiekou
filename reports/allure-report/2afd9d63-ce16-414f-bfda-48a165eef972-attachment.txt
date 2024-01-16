@@ -1,0 +1,2 @@
+[2024-01-10 16:02:06,230] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除系统插件请求路径为:/OneHit/plugin/571aa8da-95f3-425f-a557-9178e3b48268,请求体为:{"name":"二维码生成器"}
+[2024-01-10 16:02:06,252] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-删除系统插件状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704873728476}

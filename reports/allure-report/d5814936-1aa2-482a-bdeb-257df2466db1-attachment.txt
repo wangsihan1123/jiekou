@@ -1,0 +1,2 @@
+[2024-01-11 15:01:29,903] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-设置用户默认场景请求路径为:/OneHit/scene/default,请求体为:{}
+[2024-01-11 15:01:29,926] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-设置用户默认场景状态码：200，响应结果:

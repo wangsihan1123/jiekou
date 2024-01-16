@@ -1,0 +1,2 @@
+[2023-12-27 15:54:22,466] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传新增自定义插件请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-27 15:54:22,646] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传新增自定义插件状态码：200，响应结果:{"success":true,"message":"9e7d7a57-3eeb-4b1d-b6ad-c4a57e2b1481","code":200,"result":null,"timestamp":1703663664868}

@@ -1,0 +1,2 @@
+[2023-12-29 11:19:32,899] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-预览插件图标请求路径为:/OneHit/plugin/icon/preview/pm_icon_1.svg?isSystemInternal=true,请求体为:{"name":"8899"}
+[2023-12-29 11:19:32,925] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-预览插件图标状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"请求资源未找到"}

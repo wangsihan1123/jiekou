@@ -1,0 +1,2 @@
+[2024-01-11 11:32:11,705] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-记录自定义插件访问日志-错误的id请求路径为:/OneHit/plugin/log/99898,请求体为:{}
+[2024-01-11 11:32:11,723] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-记录自定义插件访问日志-错误的id状态码：404，响应结果:{"code":"RESOURCE_NOT_FOUND","message":"未找到指定插件"}

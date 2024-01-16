@@ -1,0 +1,2 @@
+[2024-01-11 10:03:18,562] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-新增自定义插件-错误的models请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-11 10:03:18,616] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-新增自定义插件-错误的models状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"请检查views的model与models"}

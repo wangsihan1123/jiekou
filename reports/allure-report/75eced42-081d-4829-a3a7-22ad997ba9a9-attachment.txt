@@ -1,0 +1,2 @@
+[2023-12-27 15:44:24,963] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传请求路径为:/OneHit/plugin,请求体为:{}
+[2023-12-27 15:44:25,174] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-上传状态码：200，响应结果:{"success":true,"message":"9e50661f-b6e4-44bb-a892-7384ff9b46ed","code":200,"result":null,"timestamp":1703663067369}

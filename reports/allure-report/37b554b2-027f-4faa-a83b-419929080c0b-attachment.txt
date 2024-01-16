@@ -1,0 +1,1 @@
+[2024-01-02 09:20:43,813] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-删除自定义插件请求路径为:/OneHit/plugin/,请求体为:{"name":"8899"}

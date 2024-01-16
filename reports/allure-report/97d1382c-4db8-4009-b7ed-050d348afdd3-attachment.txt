@@ -1,0 +1,2 @@
+[2024-01-11 11:11:52,313] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-记录自定义插件访问日志请求路径为:/OneHit/plugin/log/6b6dd603-8b70-44a1-8413-64dfb72e78c1,请求体为:{}
+[2024-01-11 11:11:52,336] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-记录自定义插件访问日志状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704942712608}

@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,621] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间列表-新增子空间请求路径为:/EDC/projectSpaces?name=project_spaces_api&pId=,请求体为:{}
+[2023-12-18 16:41:14,625] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间列表-新增子空间状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:12.152+00:00","path":"/EDC/projectSpaces","status":404,"error":"Not Found","message":"","requestId":"0a96790a-43952"}

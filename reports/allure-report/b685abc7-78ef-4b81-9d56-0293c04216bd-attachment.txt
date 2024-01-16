@@ -1,0 +1,2 @@
+[2023-12-29 10:43:01,922] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-更新插件数据请求路径为:/OneHit/plugin,请求体为:{"id":"e72e92d6-6c84-4104-8503-2d67bedc16d4","name":"8899","businessType":"自定义","iconGroup":"plugin_icon_2","pmIcon":"pm_icon_2.svg","pdIcon":"pd_icon_1.svg","description":"222222" }
+[2023-12-29 10:43:01,954] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-更新插件数据状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1703817783441}

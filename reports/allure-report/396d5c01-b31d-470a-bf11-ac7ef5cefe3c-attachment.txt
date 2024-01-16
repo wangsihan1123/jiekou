@@ -1,0 +1,2 @@
+[2023-12-18 15:58:11,103] [INFO] [test_02_data_dict.py] [line 42] 数据字典-类库管理-新增文档分类-名称为空请求路径为:/EDC/classLibs/12eb3d35-67d7-430f-b079-9a4bafa2c89e/documentCategories,请求体为:{"number":"doc_category_api_1702886280","name":"","parentId":"486e58f9-a7f9-4a00-a11c-cf7ea11a4949","source":"P","documentTypeValue":null}
+[2023-12-18 15:58:11,150] [INFO] [test_02_data_dict.py] [line 60] 数据字典-类库管理-新增文档分类-名称为空状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"name不能为空或null"}

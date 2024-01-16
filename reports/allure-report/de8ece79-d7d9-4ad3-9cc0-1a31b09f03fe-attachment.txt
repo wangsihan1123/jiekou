@@ -1,0 +1,2 @@
+[2024-01-03 15:29:37,922] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-保存自定义插件数据请求路径为:/OneHit/scene/df30fcdb-fc36-4e46-9ca5-8c5c8ca9f3cb,请求体为:{}
+[2024-01-03 15:29:38,155] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-保存自定义插件数据状态码：200，响应结果:

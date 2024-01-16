@@ -1,0 +1,2 @@
+[2023-12-18 15:58:03,171] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-获取文档审批流列表请求路径为:/EDC/projectSpaces//documentWorkflows,请求体为:{"pageNum":1,"pageSize":30}
+[2023-12-18 15:58:03,228] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-获取文档审批流列表状态码：405，响应结果:{"timestamp":"2023-12-18T07:58:00.234+0000","status":405,"error":"Method Not Allowed","message":"Request method 'POST' not supported","path":"/EDC/projectSpaces/documentWorkflows"}

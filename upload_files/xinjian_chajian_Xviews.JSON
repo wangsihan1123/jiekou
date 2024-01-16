@@ -1,0 +1,126 @@
+{
+    "name":"57825137", 
+    "pmIcon":"pm_icon_1.svg", 
+    "pdIcon":"pd_icon_1.svg", 
+    "iconGroup":"plugin_icon_1", 
+    "businessType":"自定义", 
+    "description":"1111111", 
+    "scene":{
+        "name":"", 
+        "icon":"", 
+        "order":"2", 
+        "elementHtml":"<div id=\"navigatorTab_container\" class=\"suspend navigatorContainer\" row=\"layout-row-one\" style=\"width:312px;height:calc(100% - 68px);float:left;border:none;\"></div><div id=\"3dRender_container\" row=\"layout-row-one\" style=\"width:100%;height:100%;float:left;border:none;\"></div><div id=\"propertiesTab_container\" class=\"suspend labelInfo-auto\" row=\"layout-row-one\" style=\"min-width:312px;float:left;border:none;\"></div>",
+        "areas":[
+  {
+    "id": "navigator",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "navigatorTab_container"
+  },
+  {
+    "id": "primaryContent",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "3dRender_container"
+  },
+  {
+    "id": "info",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "elementId": "propertiesTab_container"
+  }
+],
+        "containers":[
+  {
+    "id": "navContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "f6283b2c-ebc2-4388-834a-61a36ed174ad",
+    "type": "stack",
+    "index": 0,
+    "areaId": "navigator"
+  },
+  {
+    "id": "3dRenderContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "2111ce4b-f4f0-42bd-a6bb-a73c0e9c2984",
+    "type": "stack",
+    "index": 1,
+    "areaId": "primaryContent"
+  },
+  {
+    "id": "sbpropertiesContainer",
+    "sceneId": "0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6",
+    "containerId": "0916c2f4-3585-45e1-acd4-9520a4d14818",
+    "type": "stack",
+    "index": 2,
+    "areaId": "info"
+  }
+],
+        "views":[
+      {
+        "serializeData": "[\\\"机械属性\\\"]\"}]},{\"name\":\"设定值\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"工艺属性\\\"]\"}]},{\"name\":\"套管材质\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"机械属性\\\"]\"}]},{\"name\":\"套管规格（外径）\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"机械属性\\\"]\"}]}]},{\"name\":\"温度变送器\",\"parentName\":\"温度仪表\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}],\"propertyDefinitions\":[{\"name\":\"工艺量程\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"机械属性\\\"]\"}]},{\"name\":\"测量范围\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"机械属性\\\"]\"}]},{\"name\":\"工作介质\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"工艺属性\\\"]\"}]},{\"name\":\"精度等级\",\"type\":\"string\",\"required\":\"false\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"机械属性\\\"]\"}]},{\"name\":\"工作温度\",\"type\":\"double\",\"required\":\"true\",\"labels\":[{\"key\":\"全域数据地图\",\"value\":\"[\\\"工艺属性\\\"]\"}],\"dimension\":\"温度\"},{\"name\":\"工作压力\",",
+        "index": 364
+      },
+      {
+        "serializeData": "lue\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"绝热层\",\"parentName\":\"管道与阀门\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"其它变压器\",\"parentName\":\"变压器\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"电气设备\\\"]\"}]},{\"name\":\"炼油化工机械类\",\"parentName\":\"炼油化工专用机械\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"}]},{\"name\":\"GC1工业管道\",\"parentName\":\"工业管道\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"管帽\",\"parentName\":\"管子管件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"其它长输管道\",\"parentName\":\"长输管道\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"离心式制冷机\",\"parentName\":\"制冷机\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"动设备\\\"]\"}]},{\"name\":\"单梁桥式吊车\",\"parentName\":\"桥式类型起重机\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"}]},{\"name\":\"阻火器",
+        "index": 575
+      },
+      {
+        "serializeData": "\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"}]},{\"name\":\"其它物位仪表\",\"parentName\":\"物位仪表\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"视镜\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"螺旋输送机\",\"parentName\":\"输送设备\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"其它管道附件\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"电加热式热载体炉\",\"parentName\":\"热载体炉\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"GB1公用管道\",\"parentName\":\"公用管道\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"爆破片\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"管箍\",\"parentName\":\"管子管件\",\"labels\":[{\"k",
+        "index": 576
+      },
+      {
+        "serializeData": "ey\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"限流孔板\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"}]},{\"name\":\"管道过滤器\",\"parentName\":\"长输管道设施\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"工业电视系统\",\"parentName\":\"控制系统\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"反应炉\",\"parentName\":\"炉类\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"通讯及广播电视设备\",\"parentName\":\"信息与通讯设备\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"物位仪表\",\"parentName\":\"流量仪表\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"}]},{\"name\":\"GC3工业管道\",\"parentName\":\"工业管道\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"其它电动机\",\"parentName\":\"电动机\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"",
+        "index": 577
+      },
+      {
+        "serializeData": "[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"电气设备\\\"]\"}]},{\"name\":\"膨胀节\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"干式变压器\",\"parentName\":\"变压器\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"电气设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"其它压力仪表\",\"parentName\":\"压力仪表\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"流量仪表\",\"parentName\":\"测量仪表\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"}]},{\"name\":\"双梁桥式吊车\",\"parentName\":\"桥式类型起重机\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"}]},{\"name\":\"管道接头\",\"parentName\":\"管子管件\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"}]},{\"name\":\"火焰式热载体炉\",\"parentName\":\"热载体炉\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"其它往复式压缩机\",\"parentName\":\"往复式压缩机\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"动设备\\\"]\"},{\"key\":\"",
+        "index": 578
+      },
+      {
+        "serializeData": "数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"疏水阀\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"GA1长输管道\",\"parentName\":\"长输管道\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"刮板输送机\",\"parentName\":\"输送设备\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"}]},{\"name\":\"探针\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"软管\",\"parentName\":\"管道附件\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"不统计\\\"]\"}]},{\"name\":\"公用管道\",\"parentName\":\"管道\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"静设备\\\"]\"}]},{\"name\":\"安全检测及保护设备\",\"parentName\":\"安全环保专用设备\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"}]},{\"name\":\"电动机\",\"parentName\":\"电气设备类\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"电气设备\\\"]\"}]},{\"name\":\"起重搬",
+        "index": 579
+      },
+      {
+        "serializeData": "运机械\",\"parentName\":\"起重运输类\",\"labels\":[{\"key\":\"设备种类\",\"value\":\"[\\\"其他\\\"]\"},{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"}]},{\"name\":\"采样器\",\"parentName\":\"化验分析仪器\",\"labels\":[{\"key\":\"数据质量统计\",\"value\":\"[\\\"设备级\\\"]\"},{\"key\":\"设备种类\",\"value\":\"[\\\"自动控制及仪器仪表类\\\"]\"}]}],\"equipmentInfoList\":{\"deviceList\":[\"全部装置\",\"苯乙烯\",\"苯乙烯svg\",\"苯乙烯-地形\",\"测试演示\",\"广东标注测试\",\"广东标注测试2\",\"沙箱\",\"沙箱-大地形\"],\"processList\":[\"全部工艺\",\"工艺A\",\"工艺B\",\"工艺C\"],\"positionList\":[\"全部空间\",\"地上\",\"地下\"],\"categoryList\":[\"全部分类\",\"塔类\",\"炉类\",\"反应设备类\",\"罐类\",\"换热设备类\",\"通用机械类\",\"管道与阀门\",\"动力设备类\",\"油/气加注装卸设施\",\"电气设备类\",\"仪器仪表\",\"起重运输类\",\"信息与通讯设备\",\"安全环保专用设备\",\"房屋和构筑物\",\"其它设备\",\"炼油化工专用机械\"]},\"filterCollapse\":{\"deviceCollapse\":true,\"processCollapse\":false,\"positionCollapse\":false,\"categoryCollapse\":true}},\"rootStructureNode\":null,\"sceneId\":\"0aa3d8fb-e1d2-44fe-8b19-be3eed0a00c6\",\"filterState\":\"筛选完成\",\"screeningCondition\":[{\"tabName\":\"filterCondition1\",\"screeningMethod\":\"filter_Condition\",\"isHasFile\":true}],\"filterConditionsA\":[{\"screeningMethod\":\"filter_Condition\",\"activeName\":\"filterCondition1\",\"reposito",
+        "index": 580
+      },
+      {
+        "serializeData": "riesId\":[\"6end98kjb7c1\"],\"queryString\":{\"query\":{\"bool\":{\"must\":[{\"bool\":{\"minimum_should_match\":1,\"should\":[]}}],\"filter\":[]}},\"size\":9999,\"from\":0}}],\"selectPositionsA\":[]}",
+        "index": 581
+      }
+    ],
+    "isFloating": true
+  }
+],
+        "models":[
+  {
+    "id": "4e864bdf-0705-4db7-9731-2d3faf4899ed",
+    "name": "model",
+    "type": "RepoModel",
+    "options": {
+      "filters": "[{\"type\":\"LabelsFilter\",\"labels\":[{\"key\":\"装置名称\",\"value\":\"模型\"}]}]"
+    },
+    "serializeDatas": [
+      {
+        "serializeData": "[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"]",
+        "index": 0
+      }
+    ]
+  },
+  {
+    "id": "81e3482a-a752-4840-92f6-48cd2e57382a",
+    "name": "LabelModels",
+    "type": "LabelModels",
+    "options": {
+      "labelsFilters": "{\"labelClassificationName\":\"\"}",
+      "fixSize": "{\"min\": 40000, \"max\": 50000, \"width\": 100}",
+      "onOff": "on"
+    },
+    "serializeDatas": [
+      {
+        "serializeData": "[]",
+        "index": 0
+      }
+    ]
+  }
+]
+    }
+}

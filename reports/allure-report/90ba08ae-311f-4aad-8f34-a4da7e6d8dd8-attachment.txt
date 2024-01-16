@@ -1,0 +1,2 @@
+[2023-12-29 11:16:39,540] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-预览插件图标请求路径为:/OneHit/plugin/plugin_icon_1/icon/preview/pm_icon_1.svg,请求体为:{}
+[2023-12-29 11:16:39,581] [INFO] [test_01_workspace_mnt.py] [line 62] 插件管理-预览插件图标状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"插件图标文件读取异常,请联系管理员"}

@@ -1,0 +1,2 @@
+[2024-01-11 10:27:38,998] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-新增自定义插件-错误的顺序请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-11 10:27:39,054] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-新增自定义插件-错误的顺序状态码：500，响应结果:{"code":"INTERNAL_SERVER_ERROR","message":"服务器内部异常,请联系管理员"}

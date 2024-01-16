@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,499] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-获取供应商模型审批流列表请求路径为:/workflow-rest/process-definition?firstResult=0&maxResults=30&latestVersion=true,请求体为:{}
+[2023-12-18 16:41:14,504] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-获取供应商模型审批流列表状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:12.027+00:00","path":"/workflow-rest/process-definition","status":404,"error":"Not Found","message":"","requestId":"e2c96c21-43944"}

@@ -1,0 +1,2 @@
+[2024-01-03 09:59:16,177] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传新增系统插件请求路径为:/OneHit/plugin/internal,请求体为:{"name":"new_add_name","description":"new_add_description","businessType":"生产力"}
+[2024-01-03 09:59:16,246] [INFO] [test_01_workspace_mnt.py] [line 75] 插件管理-上传新增系统插件状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"系统内已有该插件"}

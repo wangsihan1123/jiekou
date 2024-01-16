@@ -1,0 +1,2 @@
+[2023-12-18 15:58:05,096] [INFO] [test_02_data_dict.py] [line 42] 数据字典-类库管理-新增工厂对象根分类-分类号为空请求路径为:/EDC/classLibs/12eb3d35-67d7-430f-b079-9a4bafa2c89e/poCategories,请求体为:{"number":"","name":"根分类API","group":null}
+[2023-12-18 15:58:05,153] [INFO] [test_02_data_dict.py] [line 60] 数据字典-类库管理-新增工厂对象根分类-分类号为空状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"number不能为空或null"}

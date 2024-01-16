@@ -1,0 +1,2 @@
+[2024-01-10 15:47:39,587] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-上传1-新增自定义插件-elementHtml为空请求路径为:/OneHit/plugin,请求体为:{}
+[2024-01-10 15:47:39,742] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-上传1-新增自定义插件-elementHtml为空状态码：200，响应结果:{"success":true,"message":"0f01efa2-6f76-428d-8cc3-22efa18938a2","code":200,"result":null,"timestamp":1704872861919}

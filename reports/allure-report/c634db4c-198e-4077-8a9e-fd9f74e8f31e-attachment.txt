@@ -1,0 +1,2 @@
+[2023-12-18 16:41:14,197] [INFO] [test_01_workspace_mnt.py] [line 44] 项目空间设置-获取采购文档编码规则列表请求路径为:/EDC/documentNumRules,请求体为:{}
+[2023-12-18 16:41:14,202] [INFO] [test_01_workspace_mnt.py] [line 62] 项目空间设置-获取采购文档编码规则列表状态码：404，响应结果:{"timestamp":"2023-12-18T08:41:11.730+00:00","path":"/EDC/documentNumRules","status":404,"error":"Not Found","message":"","requestId":"1c7ec568-43922"}

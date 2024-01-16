@@ -1,0 +1,2 @@
+[2023-12-18 15:58:04,196] [INFO] [test_02_data_dict.py] [line 42] 数据字典-类库管理-新增类库-名称已存在请求路径为:/EDC/classLibs?name=class_libs_api_1702886280,请求体为:{}
+[2023-12-18 15:58:04,243] [INFO] [test_02_data_dict.py] [line 60] 数据字典-类库管理-新增类库-名称已存在状态码：400，响应结果:{"code":"BAD_INPUT_PARAMETER","message":"类库名称已存在:class_libs_api_1702886280"}

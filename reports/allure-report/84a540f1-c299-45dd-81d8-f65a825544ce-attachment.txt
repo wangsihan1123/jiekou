@@ -1,0 +1,2 @@
+[2024-01-09 16:52:53,192] [INFO] [test_01_workspace_mnt.py] [line 44] 插件管理-获取最近临时打开请求路径为:/OneHit/plugin/recent/temp,请求体为:{}
+[2024-01-09 16:52:53,223] [INFO] [test_01_workspace_mnt.py] [line 77] 插件管理-获取最近临时打开状态码：200，响应结果:{"success":true,"message":"操作成功!","code":200,"result":null,"timestamp":1704790375619}
